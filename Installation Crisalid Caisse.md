@@ -75,7 +75,7 @@ L'assistant déploie et configure automatiquement les services requis :
 3.  Cliquez sur **Terminer**.
 
 > ## Configuration du logiciel CRISALID Caisse
-> ## Accès et Paramétrage des Options Générales
+> ### Accès et Paramétrage des Options Générales
 
 ![](https://www.crisalid.com/web/image/88274-4aa82ea7/image.png?access_token=3a0ac346-2009-4fa2-a643-013560a6b237)
 
@@ -165,6 +165,6 @@ Le menu des options générales regroupe les fonctions fondamentales d'utilisati
     
 3.  Pour quitter l'interface de paramétrage, cliquez sur **Terminé** (en haut à droite), puis retournez à l'écran principal via **Accueil**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk1ODE2OTAsLTE4OTIyODAzNjIsNj
-k5OTYwNjc0LDEzMjAzNzQ0MV19
+eyJoaXN0b3J5IjpbLTI1MzkxMTY3LC0xODkyMjgwMzYyLDY5OT
+k2MDY3NCwxMzIwMzc0NDFdfQ==
 -->
