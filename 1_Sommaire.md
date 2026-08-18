@@ -6,7 +6,7 @@ créé le: 2026-01-15 mis à jour le: 2026-08-18
 version: "1.0" 
 service: "Qualité"
 Type : "Document"
- ---
+---
 
 # Sommaire
 ## 2. [Installation](./2_Installation.md)
