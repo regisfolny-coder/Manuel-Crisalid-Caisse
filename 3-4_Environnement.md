@@ -1,4 +1,13 @@
-
+---
+titre: "Manuel d'utilisation Crisalid Caisse"
+sujet: "Configuration et procédures d'encaissement"
+auteur: "Regis Folny (Service Support & Qualité)"
+créé le: 2026-08-18
+mis à jour le: 2026-08-18
+version: "1.0"
+service: "Qualité"
+Type : "Document"
+---
 
 
 ## Environnement
@@ -7,5 +16,5 @@
 
 permet d'associer l'environnement associé à chaque poste de caisse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzI3OTE0NV19
+eyJoaXN0b3J5IjpbODkwMDE5MTQwLDE1NjcyNzkxNDVdfQ==
 -->
