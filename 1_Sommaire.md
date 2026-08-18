@@ -10,6 +10,6 @@
 ## 4. Encaissement
 ### 4.1  [Guide d'encaissement](/utilisation/encaissement.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDU5MjkwLDEyMTkxOTY2NiwtMzkzNT
-MwNjg3LDEyMjU5MzA1OTBdfQ==
+eyJoaXN0b3J5IjpbLTIzMTg3MDkwNCwxMjE5MTk2NjYsLTM5Mz
+UzMDY4NywxMjI1OTMwNTkwXX0=
 -->
