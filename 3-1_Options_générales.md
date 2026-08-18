@@ -1,5 +1,13 @@
-
-
+---
+titre: "Manuel d'utilisation Crisalid Caisse"
+sujet: "Configuration et procédures d'encaissement"
+auteur: "Regis Folny (Service Support & Qualité)"
+créé le: 2026-08-18
+mis à jour le: 2026-08-18
+version: "1.0"
+service: "Qualité"
+Type : "Document"
+---
 
 ## 1/ Options Générales
 
@@ -81,5 +89,5 @@ Le menu des options générales regroupe les fonctions fondamentales d'utilisati
     
 3.  Pour quitter l'interface de paramétrage, cliquez sur **Terminé** (en haut à droite), puis retournez à l'écran principal via **Accueil**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjM3NjM0Miw5MzY3NjM0NjJdfQ==
+eyJoaXN0b3J5IjpbMTkzNjMwMzU4MSw5MzY3NjM0NjJdfQ==
 -->
