@@ -1,7 +1,7 @@
 
 # Manuel Crisalid Caisse
 
-> ## Installation du logiciel CRISALID Caisse
+> ## Manuel CRISALID Caisse
 [![Regarder la vidéo](https://img.youtube.com/vi/zt3NII_u29M/hqdefault.jpg)](https://youtu.be/zt3NII_u29M)
 ### 1. Lancement de l'installateur
 
