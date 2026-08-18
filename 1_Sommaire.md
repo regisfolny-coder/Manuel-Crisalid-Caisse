@@ -1,4 +1,8 @@
---- titl: "Manuel d'utilisation Crisalid Caisse" subject: "Configuration et procédures d'encaissement" author: "Jean Dupont (Service Support & Qualité)" created_at: 2026-01-15 updated_at: 2026-08-18 version: "2.4" scope: "Liaison caisse, terminaux de paiement et modules réseau" quality_policy: "Garantir un taux de disponibilité du système de caisse supérieur à 99,5 % et assurer la conformité aux exigences ISO 9001." ---
+---
+titre: "Manuel d'utilisation Crisalid Caisse"
+sujet: "Configuration et procédures d'encaissement"
+auteur: "Regis Folny (Service Support & Qualité)"
+créé le: 2026-01-15 mis à jour le: 2026-08-18 version: "2.4" scope: "Liaison caisse, terminaux de paiement et modules réseau" quality_policy: "Garantir un taux de disponibilité du système de caisse supérieur à 99,5 % et assurer la conformité aux exigences ISO 9001." ---
 
 # Sommaire
 ## 2. [Installation](./2_Installation.md)
@@ -9,6 +13,6 @@
 ## 4. Encaissement
 ### 4.1  [Guide d'encaissement](./utilisation/encaissement.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA4ODk2MzMsMzc4MTM2Nzc2LDEyMT
-kxOTY2NiwtMzkzNTMwNjg3LDEyMjU5MzA1OTBdfQ==
+eyJoaXN0b3J5IjpbLTQwMjQ5NzEwNSwzNzgxMzY3NzYsMTIxOT
+E5NjY2LC0zOTM1MzA2ODcsMTIyNTkzMDU5MF19
 -->
