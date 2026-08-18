@@ -2,10 +2,11 @@
 titre: "Manuel d'utilisation Crisalid Caisse"
 sujet: "Configuration et procédures d'encaissement"
 auteur: "Regis Folny (Service Support & Qualité)"
-créé le: 2026-01-15mis à jour le: 2026-08-18
+créé le: 2026-01-15
+mis à jour le: 2026-08-18
 version: "1.0"
 service: "Qualité"
-ype : "Document"
+Type : "Document"
 ---
 
 # Sommaire
@@ -17,6 +18,6 @@ ype : "Document"
 ## 4. Encaissement
 ### 4.1  [Guide d'encaissement](./utilisation/encaissement.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTcyMTY3OTcsMzc4MTM2Nzc2LDEyMT
-kxOTY2NiwtMzkzNTMwNjg3LDEyMjU5MzA1OTBdfQ==
+eyJoaXN0b3J5IjpbMTgzMzU2MjM5MSwzNzgxMzY3NzYsMTIxOT
+E5NjY2LC0zOTM1MzA2ODcsMTIyNTkzMDU5MF19
 -->
