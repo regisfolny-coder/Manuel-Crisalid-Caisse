@@ -1,5 +1,5 @@
 
-
+# Manuel Crisalid Caisse
 
 > ## Installation du logiciel CRISALID Caisse:
 [![Regarder la vidéo](https://img.youtube.com/vi/zt3NII_u29M/hqdefault.jpg)](https://youtu.be/zt3NII_u29M)
@@ -73,7 +73,8 @@ L'assistant déploie et configure automatiquement les services requis :
 2.  Cochez la case **Afficher la page de configuration** (ou décochez-la si vous préférez procéder ultérieurement).
     
 3.  Cliquez sur **Terminer**.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIyODAzNjIsNjk5OTYwNjc0LDEzMj
-AzNzQ0MV19
+eyJoaXN0b3J5IjpbLTE2OTE3ODcyMiwtMTg5MjI4MDM2Miw2OT
+k5NjA2NzQsMTMyMDM3NDQxXX0=
 -->
