@@ -1,7 +1,7 @@
 
 
 
-## Interface
+## Interfaces
 
 Le menu **Interface** permet de personnaliser l'aspect visuel et le comportement des écrans de vente :
 
@@ -104,5 +104,6 @@ Le menu **Interface** permet de personnaliser l'aspect visuel et le comportement
     
 3.  Cliquez sur **Terminé** (en haut à droite) puis retournez à l'écran de caisse via le bouton **Accueil**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY1OTU1OTddfQ==
+eyJoaXN0b3J5IjpbLTE0NjczMzk5ODgsLTE1MjY1OTU1OTddfQ
+==
 -->
