@@ -1,7 +1,5 @@
 
-# Manuel Crisalid Caisse
-
-> ## Installation CRISALID Caisse
+# Installation CRISALID Caisse
 [![Regarder la vidéo](https://img.youtube.com/vi/zt3NII_u29M/hqdefault.jpg)](https://youtu.be/zt3NII_u29M)
 ### 1. Lancement de l'installateur
 
@@ -159,6 +157,6 @@ Le menu des options générales regroupe les fonctions fondamentales d'utilisati
     
 3.  Pour quitter l'interface de paramétrage, cliquez sur **Terminé** (en haut à droite), puis retournez à l'écran principal via **Accueil**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDI0Njc0NywtNTUxNzQ1MDc2LC0xNT
+eyJoaXN0b3J5IjpbMTI3NTI2NTUyOCwtNTUxNzQ1MDc2LC0xNT
 I3OTk1OTY4LC0xMzAzNzQwOTg0XX0=
 -->
