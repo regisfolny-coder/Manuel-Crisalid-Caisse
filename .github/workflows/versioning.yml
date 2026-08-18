@@ -1,4 +1,4 @@
-name: Auto Update Frontmatter Date
+name: Auto Update Documentation Metadata
 
 on:
   push:
@@ -6,29 +6,40 @@ on:
       - '**.md'
 
 jobs:
-  update-date:
+  update-metadata:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout du code
+      - name: Checkout du dépôt
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Mettre à jour updated_at dans les fichiers .md modifiés
+      - name: Mettre à jour updated_at et version dans les fichiers .md
         run: |
-          # Récupère la date du jour au format AAAA-MM-JJ
+          # 1. Date du jour au format AAAA-MM-JJ
           TODAY=$(date +'%Y-%m-%d')
           
-          # Identifie les fichiers .md modifiés lors du dernier commit
+          # 2. Récupération du message du dernier commit
+          COMMIT_MSG=$(git log -1 --pretty=%B)
+          
+          # 3. Extraction de la version si tagué sous forme [v1.2] ou [v2.0] dans le commit
+          NEW_VERSION=$(echo "$COMMIT_MSG" | grep -oP '\[v\K[0-9]+\.[0-9]+\]' | tr -d ']' || true)
+          
+          # 4. Liste des fichiers .md modifiés dans le dernier commit
           CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep '\.md$' || true)
           
           for file in $CHANGED_FILES; do
             if [ -f "$file" ]; then
-              # Remplace la ligne updated_at: ... par la date courante
+              # Mise à jour de la date d'édition
               sed -i "s/^updated_at:.*/updated_at: $TODAY/" "$file"
+              
+              # Si un tag [vX.X] est présent dans le message du commit, mise à jour de la version
+              if [ -n "$NEW_VERSION" ]; then
+                sed -i "s/^version:.*/version: \"$NEW_VERSION\"/" "$file"
+              fi
             fi
           done
 
@@ -37,6 +48,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -u
-          # Commit uniquement s'il y a des changements
-          git diff-index --quiet HEAD || git commit -m "chore(doc): mise à jour auto de la date [skip ci]"
+          # Commit seulement s'il y a de vrais changements dans les métadonnées
+          git diff-index --quiet HEAD || git commit -m "chore(doc): mise à jour auto des métadonnées [skip ci]"
           git push
