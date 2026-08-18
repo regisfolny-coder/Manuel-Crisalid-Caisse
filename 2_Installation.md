@@ -1,4 +1,13 @@
-
+---
+titre: "Manuel d'utilisation Crisalid Caisse"
+sujet: "Configuration et procédures d'encaissement"
+auteur: "Regis Folny (Service Support & Qualité)"
+créé le: 2026-08-18
+mis à jour le: 2026-08-18
+version: "1.0"
+service: "Qualité"
+Type : "Document"
+---
 # Installation CRISALID Caisse
 [![Regarder la vidéo](https://img.youtube.com/vi/zt3NII_u29M/hqdefault.jpg)](https://youtu.be/zt3NII_u29M)
 ### 1. Lancement de l'installateur
@@ -77,5 +86,5 @@ L'assistant déploie et configure automatiquement les services requis :
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI1MDY0OTJdfQ==
+eyJoaXN0b3J5IjpbMjA3MjY1Nzk5MywtMjA2MjUwNjQ5Ml19
 -->
