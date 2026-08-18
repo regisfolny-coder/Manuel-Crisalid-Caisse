@@ -18,5 +18,5 @@ Type : "Document"
     
 3.  Dans le panneau de gestion, sélectionnez le bouton orange **Configuration**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjMyOTYwNjMsMTk3NjQzMTAzNl19
+eyJoaXN0b3J5IjpbLTE2NjMyOTYwNjNdfQ==
 -->
