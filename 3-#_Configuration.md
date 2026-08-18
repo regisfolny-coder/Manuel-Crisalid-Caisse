@@ -9,5 +9,5 @@
     
 3.  Dans le panneau de gestion, sélectionnez le bouton orange **Configuration**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjQzMTAzNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTk3NjQzMTAzNl19
 -->
