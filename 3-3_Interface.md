@@ -1,4 +1,3 @@
-
 ---
 titre: "Manuel d'utilisation Crisalid Caisse"
 sujet: "Configuration et procédures d'encaissement"
@@ -113,5 +112,5 @@ Le menu **Interface** permet de personnaliser l'aspect visuel et le comportement
     
 3.  Cliquez sur **Terminé** (en haut à droite) puis retournez à l'écran de caisse via le bouton **Accueil**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTUxOTQzMSwtMTUyNjU5NTU5N119
+eyJoaXN0b3J5IjpbLTE1MjQwNjg4N119
 -->
