@@ -74,14 +74,8 @@ L'assistant déploie et configure automatiquement les services requis :
     
 3.  Cliquez sur **Terminer**.
 
-> ## Configuration du logiciel CRISALID Caisse
-> ### 1. Accès au menu de configuration
 
-1.  Depuis l'écran de caisse principal, connectez-vous avec un compte disposant des droits d'administration (ex: profil Manager / code 1).
-    
-2.  Cliquez sur la touche **Manager** (icône papillon en bas à droite).
-    
-3.  Dans le panneau de gestion, sélectionnez le bouton orange **Configuration**.
+
     
 4.  Dans le menu latéral gauche, cliquez sur le tout premier onglet : **Options générales**.
  ### Accès et Paramétrage des Options Générales
@@ -165,6 +159,6 @@ Le menu des options générales regroupe les fonctions fondamentales d'utilisati
     
 3.  Pour quitter l'interface de paramétrage, cliquez sur **Terminé** (en haut à droite), puis retournez à l'écran principal via **Accueil**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTc0NTA3NiwtMTUyNzk5NTk2OCwtMT
-MwMzc0MDk4NF19
+eyJoaXN0b3J5IjpbMTI5NDI0Njc0NywtNTUxNzQ1MDc2LC0xNT
+I3OTk1OTY4LC0xMzAzNzQwOTg0XX0=
 -->
