@@ -1,4 +1,13 @@
-
+---
+titre: "Manuel d'utilisation Crisalid Caisse"
+sujet: "Configuration et procédures d'encaissement"
+auteur: "Regis Folny (Service Support & Qualité)"
+créé le: 2026-08-18
+mis à jour le: 2026-08-18
+version: "1.0"
+service: "Qualité"
+Type : "Document"
+---
 
 
 ## Réseau et Dépannage (Connexion au serveur de caisse)
@@ -49,5 +58,5 @@ Dans cet écran (_Paramétrage de la connexion au serveur de caisse_), vous pouv
     
 3.  Cliquez sur **Terminé** en haut à droite, puis sur **Accueil** pour retourner à l'écran de caisse.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDMyMzc0MF19
+eyJoaXN0b3J5IjpbMTcxMTc4ODcwNV19
 -->
