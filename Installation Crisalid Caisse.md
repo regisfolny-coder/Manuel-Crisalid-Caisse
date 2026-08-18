@@ -2,7 +2,7 @@
 
 
 > ## Installation du logiciel CRISALID Caisse:
-
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VOTRE_ID_VIDEO" title="Lecteur vidéo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 [Vidéo Installation](https://youtu.be/zt3NII_u29M)
 
 ### 1. Lancement de l'installateur
@@ -76,5 +76,5 @@ L'assistant déploie et configure automatiquement les services requis :
     
 3.  Cliquez sur **Terminer**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDM3NDQxXX0=
+eyJoaXN0b3J5IjpbNjMxNzIzMTg3LDEzMjAzNzQ0MV19
 -->
