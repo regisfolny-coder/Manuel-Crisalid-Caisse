@@ -16,5 +16,5 @@ Type : "Document"
 
 permet d'associer l'environnement associé à chaque poste de caisse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwMDE5MTQwLDE1NjcyNzkxNDVdfQ==
+eyJoaXN0b3J5IjpbODkwMDE5MTQwXX0=
 -->
