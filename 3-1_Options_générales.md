@@ -89,5 +89,5 @@ Le menu des options générales regroupe les fonctions fondamentales d'utilisati
     
 3.  Pour quitter l'interface de paramétrage, cliquez sur **Terminé** (en haut à droite), puis retournez à l'écran principal via **Accueil**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjMwMzU4MSw5MzY3NjM0NjJdfQ==
+eyJoaXN0b3J5IjpbMTkzNjMwMzU4MV19
 -->
