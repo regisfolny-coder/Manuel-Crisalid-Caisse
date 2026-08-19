@@ -4,7 +4,7 @@ sujet: "Configuration et procédures d'encaissement"
 auteur: "Regis Folny (Service Support & Qualité)"
 créé le: 2026-08-18
 mis à jour le: 2026-08-18
-version: "1.0"
+mis_a_jour_le: "1.0"
 service: "Qualité"
 Type : "Document"
 ---
@@ -51,6 +51,6 @@ Dans cet écran, vous pouvez choisir parmi les modèles existants (ex: _STANDARD
     
 3.  Cliquez sur **Terminé** en haut à droite, puis sur **Accueil** pour revenir à l'écran de caisse principal.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzg5NTM2LC0yMTE3MzExMjYzLDE4Mj
-UwOTIwMjhdfQ==
+eyJoaXN0b3J5IjpbLTk2MzE4OTY0MCwxOTM3ODk1MzYsLTIxMT
+czMTEyNjMsMTgyNTA5MjAyOF19
 -->
