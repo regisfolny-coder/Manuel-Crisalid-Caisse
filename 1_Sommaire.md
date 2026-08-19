@@ -15,9 +15,11 @@ Type : "Document"
 ### 3.1 [Options générales](./3-1_Options_générales.md)
 ### 3.2 [Réseau & dépannage](./3-2_Réseau.md)
 ### 3.2 [Interface](./3-3_Interface.md)
+
 ## 4. Encaissement
 ### 4.1  [Guide d'encaissement](./utilisation/encaissement.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExODU3NTg3LDM3ODEzNjc3NiwxMjE5MT
-k2NjYsLTM5MzUzMDY4NywxMjI1OTMwNTkwXX0=
+eyJoaXN0b3J5IjpbLTE0ODQ1MjA4NjMsODExODU3NTg3LDM3OD
+EzNjc3NiwxMjE5MTk2NjYsLTM5MzUzMDY4NywxMjI1OTMwNTkw
+XX0=
 -->
