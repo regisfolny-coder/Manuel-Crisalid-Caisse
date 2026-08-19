@@ -1,6 +1,13 @@
-
-
-
+---
+titre: "Manuel d'utilisation Crisalid Caisse"
+sujet: "Configuration et procédures d'encaissement"
+auteur: "Regis Folny (Service Support & Qualité)"
+créé le: 2026-08-18
+mis à jour le: 2026-08-18
+version: "1.0"
+service: "Qualité"
+Type : "Document"
+---
 ## Configuration des Modèles de Boutons
 [![Regarder la vidéo](https://img.youtube.com/vi/Fwpn_kMz4rM/hqdefault.jpg)](https://youtu.be/Fwpn_kMz4rM)]
 
@@ -44,5 +51,6 @@ Dans cet écran, vous pouvez choisir parmi les modèles existants (ex: _STANDARD
     
 3.  Cliquez sur **Terminé** en haut à droite, puis sur **Accueil** pour revenir à l'écran de caisse principal.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTczMTEyNjMsMTgyNTA5MjAyOF19
+eyJoaXN0b3J5IjpbMTkzNzg5NTM2LC0yMTE3MzExMjYzLDE4Mj
+UwOTIwMjhdfQ==
 -->
