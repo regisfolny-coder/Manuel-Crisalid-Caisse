@@ -3,7 +3,7 @@ titre: "Manuel d'utilisation Crisalid Caisse"
 sujet: "Configuration et procédures d'encaissement"
 auteur: "Regis Folny (Service Support & Qualité)"
 créé le: 2026-08-18
-mis_a_jour_le: 2026-08-18
+mis_a_jour_le: 2026-08-19
 version: "1.0"
 service: "Qualité"
 Type : "Document"
