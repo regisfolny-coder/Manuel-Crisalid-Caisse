@@ -2,8 +2,8 @@
 
 
 ## Configuration des Modèles de Boutons
-[![Regarder la vidéo](https://img.youtube.com/vi/zt3NII_u29M/hqdefault.jpg)](https://youtu.be/zt3NII_u29M)
-https://youtu.be/Fwpn_kMz4rM
+[![Regarder la vidéo](https://img.youtube.com/vi/zt3NII_u29M/hqdefault.jpg)](https://youtu.be/Fwpn_kMz4rM)
+
 ### 1. Chemin d'accès
 
 1.  Sur l'écran de caisse principal, identifiez-vous avec un profil administrateur (ex: Manager).
@@ -44,5 +44,5 @@ Dans cet écran, vous pouvez choisir parmi les modèles existants (ex: _STANDARD
     
 3.  Cliquez sur **Terminé** en haut à droite, puis sur **Accueil** pour revenir à l'écran de caisse principal.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY2ODczMDYsMTgyNTA5MjAyOF19
+eyJoaXN0b3J5IjpbNzczMjE4OTcwLDE4MjUwOTIwMjhdfQ==
 -->
