@@ -2,7 +2,7 @@
 
 
 ## Configuration des Modèles de Boutons
-[![Regarder la vidéo](https://img.youtube.com/vi/zt3NII_u29M/hqdefault.jpg)](https://youtu.be/Fwpn_kMz4rM)
+[![Regarder la vidéo](https://img.youtube.com/vi/Fwpn_kMz4rM/hqdefault.jpg)](https://youtu.be/Fwpn_kMz4rM)]
 
 ### 1. Chemin d'accès
 
@@ -44,5 +44,5 @@ Dans cet écran, vous pouvez choisir parmi les modèles existants (ex: _STANDARD
     
 3.  Cliquez sur **Terminé** en haut à droite, puis sur **Accueil** pour revenir à l'écran de caisse principal.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczMjE4OTcwLDE4MjUwOTIwMjhdfQ==
+eyJoaXN0b3J5IjpbLTIxMTczMTEyNjMsMTgyNTA5MjAyOF19
 -->
