@@ -86,6 +86,6 @@ L'assistant déploie et configure automatiquement les services requis :
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDYxMzcwNywyMDcyNjU3OTkzLC0yMD
-YyNTA2NDkyXX0=
+eyJoaXN0b3J5IjpbNDM5ODA0NTAsMjA3MjY1Nzk5MywtMjA2Mj
+UwNjQ5Ml19
 -->
